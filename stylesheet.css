@@ -304,33 +304,6 @@ border-radius: 20px;
   display: none;
 }
 
-/*Goods--------------------------------------------------------------削除予定 */
-
-.Goods{
-  height: 650px;
-}
-
-.cdpicture{
-  width: 35%;
-  padding-left:140px;
-}
-
-.cd-p{
-  float: right;
-  padding-top: 70px;
-}
-
-.cd-p p{
-  padding-right:300px;
-  font-size:30px;
-  color: white;
-  display: inline;
-}
-
-.cd a{
-  text-decoration: none;
-}
-
 /*Contact--------------------------------------------------------------------- */
 .contact-form{
   color: white;
@@ -416,7 +389,7 @@ border-radius: 20px;
 
 /*-- Goods--------------------------------------------------------------------*/
 .goodss{
-  margin-top: 120px;
+  margin-top: 70px;
   height: 700px;
   vertical-align:middle;
 }
